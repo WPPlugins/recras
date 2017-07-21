@@ -1,0 +1,317 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Recras WordPress plugin\n"
+"POT-Creation-Date: 2015-12-16 10:28+0100\n"
+"PO-Revision-Date: 2015-12-16 10:28+0100\n"
+"Last-Translator: \n"
+"Language-Team: Recras\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.4\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: vendor\n"
+"X-Poedit-SearchPathExcluded-1: tests\n"
+
+#: editor/form-arrangement.php:14 editor/form-contact.php:32 src/Plugin.php:74
+msgid "Arrangement"
+msgstr ""
+
+#: editor/form-arrangement.php:25 editor/form-product.php:22
+msgid "Show what?"
+msgstr ""
+
+#: editor/form-arrangement.php:27 editor/form-product.php:24
+msgid "Title"
+msgstr ""
+
+#: editor/form-arrangement.php:28 editor/form-product.php:27
+msgid "Duration"
+msgstr ""
+
+#: editor/form-arrangement.php:29
+msgid "Starting location"
+msgstr ""
+
+#: editor/form-arrangement.php:30
+msgid "Minimum number of persons"
+msgstr ""
+
+#: editor/form-arrangement.php:31
+msgid "Price p.p. excl. VAT"
+msgstr ""
+
+#: editor/form-arrangement.php:32
+msgid "Price p.p. incl. VAT"
+msgstr ""
+
+#: editor/form-arrangement.php:33
+msgid "Total price excl. VAT"
+msgstr ""
+
+#: editor/form-arrangement.php:34
+msgid "Total price incl. VAT"
+msgstr ""
+
+#: editor/form-arrangement.php:35
+msgid "Programme"
+msgstr ""
+
+#: editor/form-arrangement.php:37
+msgid "Start time"
+msgstr ""
+
+#: editor/form-arrangement.php:38
+msgid "hh:mm"
+msgstr ""
+
+#: editor/form-arrangement.php:39
+msgid "Show header?"
+msgstr ""
+
+#: editor/form-arrangement.php:41
+msgid "Yes"
+msgstr ""
+
+#: editor/form-arrangement.php:42
+msgid "No"
+msgstr ""
+
+#: editor/form-arrangement.php:44 editor/form-booking.php:24
+#: editor/form-contact.php:53 editor/form-product.php:34
+msgid "Insert shortcode"
+msgstr ""
+
+#: editor/form-booking.php:12 editor/form-contact.php:15 src/Plugin.php:75
+msgid "Contact form"
+msgstr ""
+
+#: editor/form-contact.php:26
+msgid "Show title?"
+msgstr ""
+
+#: editor/form-contact.php:28
+msgid "Show labels?"
+msgstr ""
+
+#: editor/form-contact.php:30
+msgid "Show placeholders?"
+msgstr ""
+
+#: editor/form-contact.php:43
+msgid ""
+"Some arrangements may not be available for all contact forms. You can change "
+"this by editing your contact forms in Recras."
+msgstr ""
+
+#: editor/form-contact.php:44
+msgid "HTML element"
+msgstr ""
+
+#: editor/form-contact.php:46
+msgid "Definition list"
+msgstr ""
+
+#: editor/form-contact.php:47
+msgid "Ordered list"
+msgstr ""
+
+#: editor/form-contact.php:48
+msgid "Table"
+msgstr ""
+
+#: editor/form-contact.php:50
+msgid "Submit button text"
+msgstr ""
+
+#: editor/form-contact.php:51 editor/form-contact.php:78
+#: src/ContactForm.php:81
+msgid "Send"
+msgstr ""
+
+#: editor/form-product.php:11 src/Plugin.php:77
+msgid "Product"
+msgstr ""
+
+#: editor/form-product.php:25
+msgid "Description (short)"
+msgstr ""
+
+#: editor/form-product.php:26
+msgid "Description (long)"
+msgstr ""
+
+#: editor/form-product.php:28
+msgid "Image URL"
+msgstr ""
+
+#: editor/form-product.php:29
+msgid "Minimum amount"
+msgstr ""
+
+#: editor/form-product.php:30
+msgid "Price excl. VAT"
+msgstr ""
+
+#: editor/form-product.php:31
+msgid "Price incl. VAT"
+msgstr ""
+
+#: editor/translation.php:12
+msgid "What is the ID of the arrangement?"
+msgstr ""
+
+#: editor/translation.php:13
+msgid "What is the ID of the contact form?"
+msgstr ""
+
+#: editor/translation.php:14
+msgid "ID should be a positive integer"
+msgstr ""
+
+#: src/Arrangement.php:17 src/ContactForm.php:16 src/OnlineBooking.php:16
+#: src/Products.php:16
+msgid "Error: no ID set"
+msgstr ""
+
+#: src/Arrangement.php:20 src/ContactForm.php:19 src/OnlineBooking.php:19
+#: src/Products.php:19
+msgid "Error: ID is not a number"
+msgstr ""
+
+#: src/Arrangement.php:23 src/Products.php:22
+msgid "Error: \"show\" option not set"
+msgstr ""
+
+#: src/Arrangement.php:26 src/Products.php:25
+msgid "Error: invalid \"show\" option"
+msgstr ""
+
+#: src/Arrangement.php:32 src/ContactForm.php:24 src/OnlineBooking.php:24
+#: src/Products.php:30
+msgid "Error: you have not set your Recras name yet"
+msgstr ""
+
+#: src/Arrangement.php:38 src/Arrangement.php:148 src/Arrangement.php:178
+#: src/ContactForm.php:32 src/ContactForm.php:56 src/ContactForm.php:374
+#: src/Products.php:82
+msgid "Error: could not retrieve external data"
+msgstr ""
+
+#: src/Arrangement.php:42 src/Arrangement.php:152 src/Arrangement.php:182
+#: src/ContactForm.php:36 src/ContactForm.php:60 src/ContactForm.php:378
+#: src/Products.php:86
+msgid "Error: could not parse external data"
+msgstr ""
+
+#: src/Arrangement.php:68 src/Products.php:65
+msgid "Error: unknown option"
+msgstr ""
+
+#: src/Arrangement.php:95
+msgid "From"
+msgstr ""
+
+#: src/Arrangement.php:95
+msgid "Until"
+msgstr ""
+
+#: src/Arrangement.php:95
+msgid "Activity"
+msgstr ""
+
+#: src/Arrangement.php:121
+#, php-format
+msgid "Day %d"
+msgstr ""
+
+#: src/Arrangement.php:227
+msgid "No duration specified"
+msgstr ""
+
+#: src/Arrangement.php:249
+msgid "No location specified"
+msgstr ""
+
+#: src/ContactForm.php:77
+msgid ""
+"Error: arrangement is set, but contact form does not support arrangements"
+msgstr ""
+
+#: src/ContactForm.php:184
+msgid "Male"
+msgstr ""
+
+#: src/ContactForm.php:185
+msgid "Female"
+msgstr ""
+
+#: src/ContactForm.php:186
+msgid "Unknown"
+msgstr ""
+
+#: src/Plugin.php:76
+msgid "Online booking"
+msgstr ""
+
+#: src/Plugin.php:98
+msgid "Could not connect to your Recras"
+msgstr ""
+
+#: src/Plugin.php:125
+msgid "Loading..."
+msgstr ""
+
+#: src/Plugin.php:126
+msgid "Your message was sent successfully"
+msgstr ""
+
+#: src/Plugin.php:127
+msgid "There was an error sending your message"
+msgstr ""
+
+#: src/Plugin.php:155
+msgid ""
+"The cURL extension for PHP is not installed. Without this, submitting "
+"contact forms will not work."
+msgstr ""
+
+#: src/Products.php:35
+msgid "Error: product does not exist"
+msgstr ""
+
+#: src/Products.php:89
+msgid "Error: external data does not contain any results"
+msgstr ""
+
+#: src/Settings.php:64
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#: src/Settings.php:120
+msgid "Recras name"
+msgstr ""
+
+#: src/Settings.php:121
+msgid "Currency symbol"
+msgstr ""
+
+#: src/Settings.php:122
+msgid "Decimal separator"
+msgstr ""
+
+#: src/Settings.php:151
+msgid "Enter your Recras details here"
+msgstr ""
+
+#: src/admin/settings.php:1
+msgid "Recras settings"
+msgstr ""
+
+#: src/admin/settings.php:7
+msgid "Save"
+msgstr ""

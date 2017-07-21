@@ -1,0 +1,569 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Recras WordPress plugin\n"
+"POT-Creation-Date: 2017-05-22 16:45+0200\n"
+"PO-Revision-Date: 2017-05-22 16:46+0200\n"
+"Last-Translator: \n"
+"Language-Team: Recras\n"
+"Language: nl_NL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: vendor\n"
+"X-Poedit-SearchPathExcluded-1: tests\n"
+
+#: editor/form-arrangement.php:14 editor/form-booking.php:12
+#: editor/form-contact.php:32 editor/form-package-availability.php:11
+#: src/Plugin.php:68 src/Plugin.php:141
+msgid "Package"
+msgstr "Arrangement"
+
+#: editor/form-arrangement.php:25 editor/form-product.php:22
+msgid "Show what?"
+msgstr "Toon wat?"
+
+#: editor/form-arrangement.php:27 editor/form-product.php:24
+msgid "Title"
+msgstr "Titel"
+
+#: editor/form-arrangement.php:28
+msgid "Description"
+msgstr "Beschrijving"
+
+#: editor/form-arrangement.php:29 editor/form-product.php:27
+msgid "Duration"
+msgstr "Duur"
+
+#: editor/form-arrangement.php:30
+msgid "Starting location"
+msgstr "Startlocatie"
+
+#: editor/form-arrangement.php:31
+msgid "Minimum number of persons"
+msgstr "Minimum aantal personen"
+
+#: editor/form-arrangement.php:32
+msgid "Price p.p. excl. VAT"
+msgstr "Prijs p.p. excl. btw"
+
+#: editor/form-arrangement.php:33
+msgid "Price p.p. incl. VAT"
+msgstr "Prijs p.p. incl. btw"
+
+#: editor/form-arrangement.php:34
+msgid "Total price excl. VAT"
+msgstr "Totaalprijs excl. btw"
+
+#: editor/form-arrangement.php:35
+msgid "Total price incl. VAT"
+msgstr "Totaalprijs incl. btw"
+
+#: editor/form-arrangement.php:36
+msgid "Programme"
+msgstr "Programma"
+
+#: editor/form-arrangement.php:37 editor/form-product.php:28
+msgid "Image URL"
+msgstr "Afbeelding-URL"
+
+#: editor/form-arrangement.php:39
+msgid "Start time"
+msgstr "Starttijd"
+
+#: editor/form-arrangement.php:40
+msgid "hh:mm"
+msgstr "uu:mm"
+
+#: editor/form-arrangement.php:41
+msgid "Show header?"
+msgstr "Toon header?"
+
+#: editor/form-arrangement.php:43
+msgid "Yes"
+msgstr "Ja"
+
+#: editor/form-arrangement.php:44
+msgid "No"
+msgstr "Nee"
+
+#: editor/form-arrangement.php:46 editor/form-booking.php:26
+#: editor/form-contact.php:67 editor/form-package-availability.php:30
+#: editor/form-product.php:34
+msgid "Insert shortcode"
+msgstr "Voeg shortcode in"
+
+#: editor/form-booking.php:19
+msgid "No pre-filled package"
+msgstr "Geen vooraf ingevuld arrangement"
+
+#: editor/form-contact.php:15 src/Plugin.php:70 src/Plugin.php:138
+msgid "Contact form"
+msgstr "Contactformulier"
+
+#: editor/form-contact.php:26
+msgid "Show title?"
+msgstr "Toon titel?"
+
+#: editor/form-contact.php:28
+msgid "Show labels?"
+msgstr "Toon labels?"
+
+#: editor/form-contact.php:30
+msgid "Show placeholders?"
+msgstr "Toon placeholders?"
+
+#: editor/form-contact.php:43
+msgid ""
+"Some packages may not be available for all contact forms. You can change "
+"this by editing your contact forms in Recras."
+msgstr ""
+"Sommige arrangementen zijn mogelijk niet beschikbaar voor alle "
+"contactformulieren. Je kunt dit wijzigen door je contactformulieren in "
+"Recras te bewerken."
+
+#: editor/form-contact.php:44
+msgid "HTML element"
+msgstr "HTML-element"
+
+#: editor/form-contact.php:46
+msgid "Definition list"
+msgstr "Definitielijst"
+
+#: editor/form-contact.php:47
+msgid "Ordered list"
+msgstr "Geordende lijst"
+
+#: editor/form-contact.php:48
+msgid "Table"
+msgstr "Tabel"
+
+#: editor/form-contact.php:50
+msgid "Submit button text"
+msgstr "Tekst op knop Versturen"
+
+#: editor/form-contact.php:51 editor/form-contact.php:92 src/ContactForm.php:84
+msgid "Send"
+msgstr "Versturen"
+
+#: editor/form-contact.php:52
+msgid "Redirect after submission"
+msgstr "Doorsturen na versturen"
+
+#: editor/form-contact.php:54
+msgid "Don't redirect"
+msgstr "Niet doorsturen"
+
+#: editor/form-contact.php:55
+msgid "Pages"
+msgstr "Pagina's"
+
+#: editor/form-contact.php:60
+msgid "Posts"
+msgstr "Berichten"
+
+#: editor/form-product.php:11 src/Plugin.php:72 src/Plugin.php:143
+msgid "Product"
+msgstr "Product"
+
+#: editor/form-product.php:25
+msgid "Description (short)"
+msgstr "Beschrijving (kort)"
+
+#: editor/form-product.php:26
+msgid "Description (long)"
+msgstr "Beschrijving (lang)"
+
+#: editor/form-product.php:29
+msgid "Minimum amount"
+msgstr "Minimumaantal"
+
+#: editor/form-product.php:30
+msgid "Price excl. VAT"
+msgstr "Prijs excl. btw"
+
+#: editor/form-product.php:31
+msgid "Price incl. VAT"
+msgstr "Prijs incl. btw"
+
+#: src/Arrangement.php:17 src/Availability.php:17 src/ContactForm.php:16
+#: src/Products.php:16
+msgid "Error: no ID set"
+msgstr "Fout: geen ID ingesteld"
+
+#: src/Arrangement.php:20 src/Availability.php:20 src/ContactForm.php:19
+#: src/OnlineBooking.php:16 src/Products.php:19
+msgid "Error: ID is not a number"
+msgstr "Fout: ID is geen getal"
+
+#: src/Arrangement.php:23 src/Products.php:22
+msgid "Error: \"show\" option not set"
+msgstr "Fout: optie \"show\" niet ingesteld"
+
+#: src/Arrangement.php:26 src/Products.php:25
+msgid "Error: invalid \"show\" option"
+msgstr "Fout: ongeldige \"show\"-optie"
+
+#: src/Arrangement.php:78 src/Products.php:65
+msgid "Error: unknown option"
+msgstr "Fout: onbekende optie"
+
+#: src/Arrangement.php:124
+msgid "From"
+msgstr "Van"
+
+#: src/Arrangement.php:124
+msgid "Until"
+msgstr "Tot"
+
+#: src/Arrangement.php:124
+msgid "Activity"
+msgstr "Activiteit"
+
+#: src/Arrangement.php:150
+#, php-format
+msgid "Day %d"
+msgstr "Dag %d"
+
+#: src/Arrangement.php:262
+msgid "No duration specified"
+msgstr "Geen duur opgegeven"
+
+#: src/Arrangement.php:284
+msgid "No location specified"
+msgstr "Geen locatie opgegeven"
+
+#: src/ContactForm.php:80
+msgid "Error: package is set, but contact form does not support packages"
+msgstr ""
+"Fout: arrangement is ingesteld, maar contactformulier ondersteunt geen "
+"arrangementen"
+
+#: src/ContactForm.php:254
+msgid "Unknown"
+msgstr "Onbekend"
+
+#: src/ContactForm.php:255
+msgid "Male"
+msgstr "Man"
+
+#: src/ContactForm.php:256
+msgid "Female"
+msgstr "Vrouw"
+
+#: src/Http.php:9
+msgid "The maximum stack depth has been exceeded"
+msgstr "De maximale JSON-diepte is overschreden"
+
+#: src/Http.php:11
+msgid "Invalid or malformed JSON"
+msgstr "Ongeldige of misvormde JSON"
+
+#: src/Http.php:13
+msgid "Control character error, possibly incorrectly encoded"
+msgstr "Fout controleteken, mogelijk incorrect geëncodeerd"
+
+#: src/Http.php:15
+msgid "Syntax error"
+msgstr "Syntaxisfout"
+
+#: src/Http.php:17
+msgid "Malformed UTF-8 characters, possibly incorrectly encoded"
+msgstr "Misvormde UTF-8-tekens, mogelijk incorrect geëncodeerd"
+
+#: src/Http.php:19
+msgid "Unknown JSON error"
+msgstr "Onbekende JSON-fout"
+
+#: src/Http.php:46
+#, php-format
+msgid ""
+"Error: could not retrieve data from Recras. The error message received was: "
+"%s"
+msgstr ""
+"Fout: kon data niet ophalen uit Recras. De ontvangen foutmelding was: %s"
+
+#: src/Http.php:55
+#, php-format
+msgid "Error: could not parse data from Recras. The error message was: %s"
+msgstr "Fout: kon data uit Recras niet verwerken. De foutmelding was: %s"
+
+#: src/Plugin.php:51 src/Plugin.php:52
+msgid "Settings"
+msgstr "Instellingen"
+
+#: src/Plugin.php:61 src/Plugin.php:62
+msgid "Cache"
+msgstr "Cache"
+
+#: src/Plugin.php:69 src/Plugin.php:142
+msgid "Package availability"
+msgstr "Arrangement-beschikbaarheid"
+
+#: src/Plugin.php:71 src/Plugin.php:140
+msgid "Online booking"
+msgstr "Online boeking"
+
+#: src/Plugin.php:113
+msgid "Error: you have not set your Recras name yet"
+msgstr "Fout: je hebt je Recras-naam nog niet ingesteld"
+
+#: src/Plugin.php:115
+msgid ""
+"Error: your Recras name has not been set yet, but you do not have the "
+"permission to set this. Please ask your site administrator to do this for "
+"you."
+msgstr ""
+"Fout: je Recras-naam is nog niet ingesteld, maar je hebt niet de rechten om "
+"dit zelf in te stellen. Vraag aan je websitebeheerder om dit voor je te doen."
+
+#: src/Plugin.php:139
+msgid "Could not connect to your Recras"
+msgstr "Kon geen verbinding maken met je Recras"
+
+#: src/Plugin.php:155
+msgid "Loading..."
+msgstr "Laden..."
+
+#: src/Plugin.php:156
+msgid "Your message was sent successfully"
+msgstr "Uw bericht is succesvol verzonden"
+
+#: src/Plugin.php:157
+msgid "There was an error sending your message"
+msgstr "Er was een probleem met het verzenden van uw bericht"
+
+#: src/Plugin.php:168
+msgid "Cancel"
+msgstr "Annuleren"
+
+#: src/Plugin.php:169
+msgid "OK"
+msgstr "OK"
+
+#: src/Products.php:35
+msgid "Error: product does not exist"
+msgstr "Fout: product bestaat niet"
+
+#: src/Products.php:122
+msgid "Error: external data does not contain any results"
+msgstr "Fout: externe data bevat geen resultaten"
+
+#: src/Settings.php:74 src/Settings.php:86
+msgid "You do not have sufficient permissions to access this page."
+msgstr "Je hebt niet genoeg rechten om deze pagina te bekijken."
+
+#: src/Settings.php:133 src/admin/settings.php:1
+msgid "Recras settings"
+msgstr "Recras-instellingen"
+
+#: src/Settings.php:143
+msgid "Recras name"
+msgstr "Recrasnaam"
+
+#: src/Settings.php:144
+msgid "Currency symbol"
+msgstr "Valutasymbool"
+
+#: src/Settings.php:145
+msgid "Decimal separator"
+msgstr "Decimaalscheiding"
+
+#: src/Settings.php:146
+msgid "Use date/time picker script"
+msgstr "Gebruik datum-/tijdselectiescript"
+
+#: src/Settings.php:175
+msgid "Enter your Recras details here"
+msgstr "Voer je Recras-gegevens hier in"
+
+#: src/admin/cache.php:6
+msgid "The selected cache was cleared."
+msgstr "De geselecteerde cache is geleegd."
+
+#: src/admin/cache.php:19
+msgid "Clear Recras cache"
+msgstr "Leeg Recras-cache"
+
+#: src/admin/cache.php:24
+msgid ""
+"Data coming from your Recras (contact forms, packages, products) is cached "
+"for up to 24 hours. If you make important changes (i.e. a price increase) it "
+"is recommended you clear the corresponding cache."
+msgstr ""
+"Data die uit Recras komt (contactformulieren, arrangementen, producten) "
+"wordt tot 24 uur bewaard. Als je belangrijke wijzigingen maakt (bijv. een "
+"prijsverhoging) dan is het aan te raden om de bijbehorende cache te legen."
+
+#: src/admin/cache.php:27
+msgid "Packages"
+msgstr "Arrangementen"
+
+#: src/admin/cache.php:28
+#, php-format
+msgid "This clears the cache for all packages, used in the %s shortcode."
+msgstr ""
+"Dit leegt de cache voor alle arrangementen, gebruikt in de shortcode %s."
+
+#: src/admin/cache.php:30
+msgid "Clear packages cache"
+msgstr "Leeg arrangementencache"
+
+#: src/admin/cache.php:34
+msgid "Contact forms"
+msgstr "Contactformulieren"
+
+#: src/admin/cache.php:35
+#, php-format
+msgid ""
+"This clears the cache for all contact forms, including fields and list of "
+"packages for each form. These are used in the %s shortcode."
+msgstr ""
+"Dit leegt de cache voor alle contactformulieren, inclusief velden en lijst "
+"met arrangementen voor elk formulier. Deze worden gebruikt in de shortcode "
+"%s."
+
+#: src/admin/cache.php:37
+msgid "Clear contact form cache"
+msgstr "Leeg contactformuliercache"
+
+#: src/admin/cache.php:41
+msgid "Products"
+msgstr "Producten"
+
+#: src/admin/cache.php:42
+#, php-format
+msgid "This clears the cache for all products, used in the %s shortcode."
+msgstr "Dit leegt de cache voor alle producten, gebruikt in de shortcode %s."
+
+#: src/admin/cache.php:44
+msgid "Clear product cache"
+msgstr "Leeg productencache"
+
+#: src/admin/settings.php:7
+msgid "Save"
+msgstr "Opslaan"
+
+#~ msgid "Error: could not retrieve data from Recras"
+#~ msgstr "Fout: kon data niet ophalen uit Recras"
+
+#~ msgid "Error: could not parse data from Recras"
+#~ msgstr "Fout: kon data uit Recras niet verwerken"
+
+#~ msgid "What is the ID of the package?"
+#~ msgstr "Wat is het ID van het arrangement?"
+
+#~ msgid "What is the ID of the contact form?"
+#~ msgstr "Wat is het ID van het arrangement?"
+
+#~ msgid "ID should be a positive integer"
+#~ msgstr "ID moet een positief geheel getal zijn"
+
+#~ msgid "Error: could not retrieve external data"
+#~ msgstr "Fout: kon externe data niet ophalen"
+
+#~ msgid "Error: could not parse external data"
+#~ msgstr "Fout: kon externe data niet parsen"
+
+#~ msgid ""
+#~ "This clears the cache for all contact forms, including fields and list of "
+#~ "arrangements for each form. These are used in the %s shortcode."
+#~ msgstr ""
+#~ "Dit leegt de cache voor alle contactformulieren, inclusief velden en "
+#~ "lijst met arrangementen voor elk formulier. Deze worden gebruikt in de "
+#~ "shortcode %s."
+
+#~ msgid ""
+#~ "Some arrangements may not be available for all contact forms. You can "
+#~ "change this by editing your contact forms in Recras."
+#~ msgstr ""
+#~ "Sommige arrangementen zijn mogelijk niet beschikbaar voor alle "
+#~ "contactformulieren. Je kunt dit wijzigen door je contactformulieren in "
+#~ "Recras te bewerken."
+
+#~ msgid ""
+#~ "Data coming from your Recras (contact forms, arrangements, products) is "
+#~ "cached for up to 24 hours. If you make important changes (i.e. a price "
+#~ "increase) it is recommended you clear the corresponding cache."
+#~ msgstr ""
+#~ "Data die uit Recras komt (contactformulieren, arrangementen, producten) "
+#~ "wordt tot 24 uur bewaard. Als je belangrijke wijzigingen maakt (bijv. een "
+#~ "prijsverhoging) dan is het aan te raden om de bijbehorende cache te legen."
+
+#~ msgid "Arrangements"
+#~ msgstr "Arrangementen"
+
+#~ msgid "Clear arrangements cache"
+#~ msgstr "Leeg arrangementencache"
+
+#~ msgid "Arrangement"
+#~ msgstr "Arrangement"
+
+#~ msgid "No pre-filled arrangement"
+#~ msgstr "Geen vooraf ingevuld arrangement"
+
+#~ msgid "What is the ID of the arrangement?"
+#~ msgstr "Wat is het ID van het arrangement?"
+
+#~ msgid ""
+#~ "Error: arrangement is set, but contact form does not support arrangements"
+#~ msgstr ""
+#~ "Fout: arrangement is ingesteld, maar contactformulier ondersteunt geen "
+#~ "arrangementen"
+
+#~ msgid ""
+#~ "This clears the cache for all arrangements, used in the %s shortcode."
+#~ msgstr ""
+#~ "Dit leegt de cache voor alle arrangementen, gebruikt in de shortcode %s."
+
+#~ msgid "All"
+#~ msgstr "Alles"
+
+#~ msgid "Clear"
+#~ msgstr "Legen"
+
+#~ msgid ""
+#~ "Data coming from your Recras (contact forms, arrangements, products) are "
+#~ "cached for up to 24 hours. If you make important changes (i.e. a price "
+#~ "increase) it is recommended you clear the corresponding cache."
+#~ msgstr ""
+#~ "Data die uit Recras komt (contactformulieren, arrangementen, producten) "
+#~ "worden tot 24 uur bewaard. Als je belangrijke wijzigingen maakt (bijv. "
+#~ "een prijsverhoging) dan is het aan te raden om de bijbehorende cache te "
+#~ "legen."
+
+#~ msgid "Clear all"
+#~ msgstr "Leeg alles"
+
+#~ msgid ""
+#~ "The cURL extension for PHP is not installed. Without this, submitting "
+#~ "contact forms will not work."
+#~ msgstr ""
+#~ "De cURL-extensie voor PHP is niet geïnstalleerd. Zonder deze extensie "
+#~ "werkt het versturen van contactformulieren niet."
+
+#~ msgid "Error: you have not set your Recras subdomain yet"
+#~ msgstr "Fout: je hebt je Recras-subdomein nog niet ingesteld"
+
+#~ msgid "Arrangement ID"
+#~ msgstr "Arrangement-ID"
+
+#~ msgid "Subdomain"
+#~ msgstr "Subdomein"
+
+#~ msgid "%dd"
+#~ msgstr "%dd"
+
+#~ msgid "%dh"
+#~ msgstr "%du"
+
+#~ msgid "%dm"
+#~ msgstr "%dm"
+
+#~ msgid "ID should be a positive number"
+#~ msgstr "ID moet een positief getal zijn"

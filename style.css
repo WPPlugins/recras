@@ -1,0 +1,49 @@
+/*
+ * This is an overview of all the classes you can use with this plugin, listed alphabetically
+ */
+
+/* Applied to minimum amount of a product */
+.recras-amount {}
+
+/* Applied to contact forms */
+.recras-contact {}
+
+/* Applied to the product description */
+.recras-description {}
+
+/* Applied to the duration of an arrangement or product */
+.recras-duration {}
+
+/* Applied to error messages from an unsuccessful form submission */
+.recras-error {}
+
+/* Applied to date/time inputs on a contact form - useful for hooking date/time pickers */
+.recras-input-date {}
+.recras-input-time {}
+
+/* Applied to loading animation image */
+.recras-loading {}
+
+/* Applied to the location of an arrangement */
+.recras-location {}
+
+/* Applied to the first <tr> in an arrangement programme that falls on a new day */
+.recras-new-day {}
+
+/* Applied to the minimum number of people for an arrangement */
+.recras-persons {}
+
+/* Applied to the various prices of an arrangement */
+.recras-price {}
+
+/* Applied to the <table> element of an arrangement programme */
+.recras-programme {}
+
+/* Added after the <label>s of required elements in a contact form */
+.recras-required {}
+
+/* Applied to the "success" message after a successful form submission */
+.recras-success {}
+
+/* Applied to the arrangement/product title */
+.recras-title {}

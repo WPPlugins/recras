@@ -1,0 +1,435 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Recras WordPress plugin\n"
+"POT-Creation-Date: 2017-05-22 16:46+0200\n"
+"PO-Revision-Date: 2017-05-22 16:46+0200\n"
+"Last-Translator: \n"
+"Language-Team: Recras\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: vendor\n"
+"X-Poedit-SearchPathExcluded-1: tests\n"
+
+#: editor/form-arrangement.php:14 editor/form-booking.php:12
+#: editor/form-contact.php:32 editor/form-package-availability.php:11
+#: src/Plugin.php:68 src/Plugin.php:141
+msgid "Package"
+msgstr ""
+
+#: editor/form-arrangement.php:25 editor/form-product.php:22
+msgid "Show what?"
+msgstr ""
+
+#: editor/form-arrangement.php:27 editor/form-product.php:24
+msgid "Title"
+msgstr ""
+
+#: editor/form-arrangement.php:28
+msgid "Description"
+msgstr ""
+
+#: editor/form-arrangement.php:29 editor/form-product.php:27
+msgid "Duration"
+msgstr ""
+
+#: editor/form-arrangement.php:30
+msgid "Starting location"
+msgstr ""
+
+#: editor/form-arrangement.php:31
+msgid "Minimum number of persons"
+msgstr ""
+
+#: editor/form-arrangement.php:32
+msgid "Price p.p. excl. VAT"
+msgstr ""
+
+#: editor/form-arrangement.php:33
+msgid "Price p.p. incl. VAT"
+msgstr ""
+
+#: editor/form-arrangement.php:34
+msgid "Total price excl. VAT"
+msgstr ""
+
+#: editor/form-arrangement.php:35
+msgid "Total price incl. VAT"
+msgstr ""
+
+#: editor/form-arrangement.php:36
+msgid "Programme"
+msgstr "Program"
+
+#: editor/form-arrangement.php:37 editor/form-product.php:28
+msgid "Image URL"
+msgstr ""
+
+#: editor/form-arrangement.php:39
+msgid "Start time"
+msgstr ""
+
+#: editor/form-arrangement.php:40
+msgid "hh:mm"
+msgstr ""
+
+#: editor/form-arrangement.php:41
+msgid "Show header?"
+msgstr ""
+
+#: editor/form-arrangement.php:43
+msgid "Yes"
+msgstr ""
+
+#: editor/form-arrangement.php:44
+msgid "No"
+msgstr ""
+
+#: editor/form-arrangement.php:46 editor/form-booking.php:26
+#: editor/form-contact.php:67 editor/form-package-availability.php:30
+#: editor/form-product.php:34
+msgid "Insert shortcode"
+msgstr ""
+
+#: editor/form-booking.php:19
+msgid "No pre-filled package"
+msgstr ""
+
+#: editor/form-contact.php:15 src/Plugin.php:70 src/Plugin.php:138
+msgid "Contact form"
+msgstr ""
+
+#: editor/form-contact.php:26
+msgid "Show title?"
+msgstr ""
+
+#: editor/form-contact.php:28
+msgid "Show labels?"
+msgstr ""
+
+#: editor/form-contact.php:30
+msgid "Show placeholders?"
+msgstr ""
+
+#: editor/form-contact.php:43
+msgid ""
+"Some packages may not be available for all contact forms. You can change "
+"this by editing your contact forms in Recras."
+msgstr ""
+
+#: editor/form-contact.php:44
+msgid "HTML element"
+msgstr ""
+
+#: editor/form-contact.php:46
+msgid "Definition list"
+msgstr ""
+
+#: editor/form-contact.php:47
+msgid "Ordered list"
+msgstr ""
+
+#: editor/form-contact.php:48
+msgid "Table"
+msgstr ""
+
+#: editor/form-contact.php:50
+msgid "Submit button text"
+msgstr ""
+
+#: editor/form-contact.php:51 editor/form-contact.php:92 src/ContactForm.php:84
+msgid "Send"
+msgstr ""
+
+#: editor/form-contact.php:52
+msgid "Redirect after submission"
+msgstr ""
+
+#: editor/form-contact.php:54
+msgid "Don't redirect"
+msgstr ""
+
+#: editor/form-contact.php:55
+msgid "Pages"
+msgstr ""
+
+#: editor/form-contact.php:60
+msgid "Posts"
+msgstr ""
+
+#: editor/form-product.php:11 src/Plugin.php:72 src/Plugin.php:143
+msgid "Product"
+msgstr ""
+
+#: editor/form-product.php:25
+msgid "Description (short)"
+msgstr ""
+
+#: editor/form-product.php:26
+msgid "Description (long)"
+msgstr ""
+
+#: editor/form-product.php:29
+msgid "Minimum amount"
+msgstr ""
+
+#: editor/form-product.php:30
+msgid "Price excl. VAT"
+msgstr ""
+
+#: editor/form-product.php:31
+msgid "Price incl. VAT"
+msgstr ""
+
+#: src/Arrangement.php:17 src/Availability.php:17 src/ContactForm.php:16
+#: src/Products.php:16
+msgid "Error: no ID set"
+msgstr ""
+
+#: src/Arrangement.php:20 src/Availability.php:20 src/ContactForm.php:19
+#: src/OnlineBooking.php:16 src/Products.php:19
+msgid "Error: ID is not a number"
+msgstr ""
+
+#: src/Arrangement.php:23 src/Products.php:22
+msgid "Error: \"show\" option not set"
+msgstr ""
+
+#: src/Arrangement.php:26 src/Products.php:25
+msgid "Error: invalid \"show\" option"
+msgstr ""
+
+#: src/Arrangement.php:78 src/Products.php:65
+msgid "Error: unknown option"
+msgstr ""
+
+#: src/Arrangement.php:124
+msgid "From"
+msgstr ""
+
+#: src/Arrangement.php:124
+msgid "Until"
+msgstr ""
+
+#: src/Arrangement.php:124
+msgid "Activity"
+msgstr ""
+
+#: src/Arrangement.php:150
+#, php-format
+msgid "Day %d"
+msgstr ""
+
+#: src/Arrangement.php:262
+msgid "No duration specified"
+msgstr ""
+
+#: src/Arrangement.php:284
+msgid "No location specified"
+msgstr ""
+
+#: src/ContactForm.php:80
+msgid "Error: package is set, but contact form does not support packages"
+msgstr ""
+
+#: src/ContactForm.php:254
+msgid "Unknown"
+msgstr ""
+
+#: src/ContactForm.php:255
+msgid "Male"
+msgstr ""
+
+#: src/ContactForm.php:256
+msgid "Female"
+msgstr ""
+
+#: src/Http.php:9
+msgid "The maximum stack depth has been exceeded"
+msgstr ""
+
+#: src/Http.php:11
+msgid "Invalid or malformed JSON"
+msgstr ""
+
+#: src/Http.php:13
+msgid "Control character error, possibly incorrectly encoded"
+msgstr ""
+
+#: src/Http.php:15
+msgid "Syntax error"
+msgstr ""
+
+#: src/Http.php:17
+msgid "Malformed UTF-8 characters, possibly incorrectly encoded"
+msgstr ""
+
+#: src/Http.php:19
+msgid "Unknown JSON error"
+msgstr ""
+
+#: src/Http.php:46
+#, php-format
+msgid ""
+"Error: could not retrieve data from Recras. The error message received was: "
+"%s"
+msgstr ""
+
+#: src/Http.php:55
+#, php-format
+msgid "Error: could not parse data from Recras. The error message was: %s"
+msgstr ""
+
+#: src/Plugin.php:51 src/Plugin.php:52
+msgid "Settings"
+msgstr ""
+
+#: src/Plugin.php:61 src/Plugin.php:62
+msgid "Cache"
+msgstr ""
+
+#: src/Plugin.php:69 src/Plugin.php:142
+msgid "Package availability"
+msgstr ""
+
+#: src/Plugin.php:71 src/Plugin.php:140
+msgid "Online booking"
+msgstr ""
+
+#: src/Plugin.php:113
+msgid "Error: you have not set your Recras name yet"
+msgstr ""
+
+#: src/Plugin.php:115
+msgid ""
+"Error: your Recras name has not been set yet, but you do not have the "
+"permission to set this. Please ask your site administrator to do this for "
+"you."
+msgstr ""
+
+#: src/Plugin.php:139
+msgid "Could not connect to your Recras"
+msgstr ""
+
+#: src/Plugin.php:155
+msgid "Loading..."
+msgstr ""
+
+#: src/Plugin.php:156
+msgid "Your message was sent successfully"
+msgstr ""
+
+#: src/Plugin.php:157
+msgid "There was an error sending your message"
+msgstr ""
+
+#: src/Plugin.php:168
+msgid "Cancel"
+msgstr ""
+
+#: src/Plugin.php:169
+msgid "OK"
+msgstr ""
+
+#: src/Products.php:35
+msgid "Error: product does not exist"
+msgstr ""
+
+#: src/Products.php:122
+msgid "Error: external data does not contain any results"
+msgstr ""
+
+#: src/Settings.php:74 src/Settings.php:86
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#: src/Settings.php:133 src/admin/settings.php:1
+msgid "Recras settings"
+msgstr ""
+
+#: src/Settings.php:143
+msgid "Recras name"
+msgstr ""
+
+#: src/Settings.php:144
+msgid "Currency symbol"
+msgstr ""
+
+#: src/Settings.php:145
+msgid "Decimal separator"
+msgstr ""
+
+#: src/Settings.php:146
+msgid "Use date/time picker script"
+msgstr ""
+
+#: src/Settings.php:175
+msgid "Enter your Recras details here"
+msgstr ""
+
+#: src/admin/cache.php:6
+msgid "The selected cache was cleared."
+msgstr ""
+
+#: src/admin/cache.php:19
+msgid "Clear Recras cache"
+msgstr ""
+
+#: src/admin/cache.php:24
+msgid ""
+"Data coming from your Recras (contact forms, packages, products) is cached "
+"for up to 24 hours. If you make important changes (i.e. a price increase) it "
+"is recommended you clear the corresponding cache."
+msgstr ""
+
+#: src/admin/cache.php:27
+msgid "Packages"
+msgstr ""
+
+#: src/admin/cache.php:28
+#, php-format
+msgid "This clears the cache for all packages, used in the %s shortcode."
+msgstr ""
+
+#: src/admin/cache.php:30
+msgid "Clear packages cache"
+msgstr ""
+
+#: src/admin/cache.php:34
+msgid "Contact forms"
+msgstr ""
+
+#: src/admin/cache.php:35
+#, php-format
+msgid ""
+"This clears the cache for all contact forms, including fields and list of "
+"packages for each form. These are used in the %s shortcode."
+msgstr ""
+
+#: src/admin/cache.php:37
+msgid "Clear contact form cache"
+msgstr ""
+
+#: src/admin/cache.php:41
+msgid "Products"
+msgstr ""
+
+#: src/admin/cache.php:42
+#, php-format
+msgid "This clears the cache for all products, used in the %s shortcode."
+msgstr ""
+
+#: src/admin/cache.php:44
+msgid "Clear product cache"
+msgstr ""
+
+#: src/admin/settings.php:7
+msgid "Save"
+msgstr ""
